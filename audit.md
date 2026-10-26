@@ -18,7 +18,7 @@
 | Title length validation | Reject titles longer than 60 characters. | Passed |
 | Delete books | Remove only the selected book. | Passed |
 | Summary counts | Update Total Books, Currently Reading, and Finished counts. | Passed |
-| Responsive design | Support desktop and mobile screen sizes. | To be verified |
+| Responsive design | Support desktop and mobile screen sizes. | Passed |
 
 ## 3. Validation Audit
 
